@@ -1,0 +1,2 @@
+public class debug {
+}
